@@ -10,3 +10,6 @@ hello-world
 03 testing to commit with TortoiseGIT
 04 again from TortoiseGIT
 >>>>>>> readme-edits
+
+
+Now I'm doing this again...
